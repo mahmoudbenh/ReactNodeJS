@@ -1,0 +1,37 @@
+.page2 {
+    text-align: center;
+  }
+  .content {
+    display: block; 
+    margin: 1px auto;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    	table-layout: fixed;
+    width: 1400px;
+    height: 50px;
+  }
+  .message {
+    background-color: #0066ff;
+    display: block;
+    margin-left: -100%;
+    padding: 0 5px;
+    font-size: 2.5rem;
+    text-align: left;
+    animation: defilement 10s infinite linear;
+  }
+  .message:after {
+    content: attr(data-text);
+    position: absolute;
+    white-space: nowrap;
+    padding-left: 10px;
+  }
+   @keyframes defilement {
+   0%, 100% {
+  margin-left:0;
+  }
+   99.99% {
+  margin-left:-100%;
+  }
+  }
+  

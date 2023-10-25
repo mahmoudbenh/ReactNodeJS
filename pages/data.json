@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Hbib",
+    "lastName": "Bekir",
+    "email": "hbib@gmail.com",
+    "age": 24,
+    "avatar": "https://i1.sndcdn.com/artworks-DfDLRYUqkm9IDWcy-AYXT0w-t500x500.jpg"
+  },
+  {
+    "firstName": "Amal",
+    "lastName": "Jenni",
+    "email": "amal@gmail.com",
+    "age": 28,
+    "avatar": "https://i1.sndcdn.com/artworks-DfDLRYUqkm9IDWcy-AYXT0w-t500x500.jpg"
+  },
+  {
+    "firstName": "mahmoud",
+    "lastName": "Ben hammouda",
+    "email": "test@gmail.com",
+    "age": 20,
+    "avatar": "https://i1.sndcdn.com/artworks-DfDLRYUqkm9IDWcy-AYXT0w-t500x500.jpg"
+  },
+  {
+    "firstName": "Mohammed Ali",
+    "lastName": "Jenni",
+    "email": "test@gmail.com",
+    "age": 27,
+    "avatar": "https://i1.sndcdn.com/artworks-DfDLRYUqkm9IDWcy-AYXT0w-t500x500.jpg"
+  }
+]
